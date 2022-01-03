@@ -1,0 +1,33 @@
+body {
+    background-color: khaki;
+    font-size: 24px;
+    color: indigo;
+}
+
+h1 {
+    color: rgb(108, 197, 197);
+    font-size: 2em;
+    text-align: center;
+}
+
+.center {
+    text-align: center
+}
+
+a {
+    color: lightseagreen;
+}
+
+.border {
+    border: 10px solid rgb(108, 197, 197);
+}
+
+div {
+    text-align: center
+}
+
+ul {
+    text-decoration: underline;
+    font-style: italic;
+    color: blueviolet;
+}
